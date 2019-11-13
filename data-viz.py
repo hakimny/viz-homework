@@ -81,7 +81,5 @@ for col1_idx, column1 in enumerate(diabetes_data.columns):
 
 
 plt.savefig(f'{path}/test_3d.png')
-
-
 plt.close()
 
